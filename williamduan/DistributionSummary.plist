@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConnectionsSeeIt.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>56275C2C2C4C88151A0C65C764F86D11B19045BB</string>
+				<key>dateExpires</key>
+				<string>8/20/24</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V4VMBJ7UGG.com.WilliamDuan.ConnectionsSeeIt</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V4VMBJ7UGG</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ConnectionsSeeIt.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1ec6676e-f0bd-4225-a8c5-2f71a8fa2975</string>
+				<key>dateExpires</key>
+				<string>8/20/24</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.WilliamDuan.ConnectionsSeeIt</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V4VMBJ7UGG</string>
+				<key>name</key>
+				<string>James Phieffer</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
